@@ -1,4 +1,4 @@
-# <Ethan's Study Guide>
+# Ethan's Study Gudie
 
 ## This webpage shows what I've learned during prework.
 
